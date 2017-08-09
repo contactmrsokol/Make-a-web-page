@@ -1,0 +1,53 @@
+.http {
+  display: flex;
+}
+
+.httpimg {
+  margin-right: 20px;
+}
+
+.httptxt {
+  color: blue;
+  margin-top: 70px;
+}
+
+.servers {
+  display: flex;
+}
+
+.serversimg {
+  margin-right: 20px;
+}
+
+.serverstxt {
+  color: grey;
+  margin-top: 80px;
+}
+
+.internet {
+  display: flex;
+}
+
+.internetimg {
+  margin-right: 20px;
+}
+
+.internettxt {
+  color: lightblue;
+  margin-top: 90px;
+}
+
+.browser {
+  display: flex;
+}
+
+.browserimg {
+  margin-top: 30px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.browsertxt {
+  color: green;
+  margin-top: 60px;
+}
